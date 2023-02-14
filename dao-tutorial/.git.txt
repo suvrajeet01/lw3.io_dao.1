@@ -1,0 +1,412 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 6AB6-9C8A
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git
+
+15-02-2023  01:25    <DIR>          ..
+15-02-2023  01:42                 0 .git.txt
+15-02-2023  01:28                13 COMMIT_EDITMSG
+15-02-2023  01:35               246 config
+14-02-2023  17:39                73 description
+15-02-2023  01:35                22 HEAD
+14-02-2023  17:39    <DIR>          hooks
+15-02-2023  01:28             2,932 index
+14-02-2023  17:39    <DIR>          info
+15-02-2023  01:28    <DIR>          logs
+15-02-2023  01:28    <DIR>          objects
+14-02-2023  17:39    <DIR>          refs
+               6 File(s)          3,286 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\hooks
+
+14-02-2023  17:39    <DIR>          .
+14-02-2023  17:39               478 applypatch-msg.sample
+14-02-2023  17:39               896 commit-msg.sample
+14-02-2023  17:39             4,655 fsmonitor-watchman.sample
+14-02-2023  17:39               189 post-update.sample
+14-02-2023  17:39               424 pre-applypatch.sample
+14-02-2023  17:39             1,643 pre-commit.sample
+14-02-2023  17:39               416 pre-merge-commit.sample
+14-02-2023  17:39             1,374 pre-push.sample
+14-02-2023  17:39             4,898 pre-rebase.sample
+14-02-2023  17:39               544 pre-receive.sample
+14-02-2023  17:39             1,492 prepare-commit-msg.sample
+14-02-2023  17:39             2,783 push-to-checkout.sample
+14-02-2023  17:39             3,650 update.sample
+              13 File(s)         23,442 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\info
+
+14-02-2023  17:39    <DIR>          .
+14-02-2023  17:39               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\logs
+
+15-02-2023  01:28    <DIR>          .
+15-02-2023  01:35               575 HEAD
+15-02-2023  01:35    <DIR>          refs
+               1 File(s)            575 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\logs\refs
+
+15-02-2023  01:35    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:35    <DIR>          heads
+               0 File(s)              0 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\logs\refs\heads
+
+15-02-2023  01:35    <DIR>          .
+15-02-2023  01:35    <DIR>          ..
+15-02-2023  01:35               376 trunk
+               1 File(s)            376 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects
+
+15-02-2023  01:28    <DIR>          .
+15-02-2023  01:27    <DIR>          02
+15-02-2023  01:27    <DIR>          0f
+15-02-2023  01:28    <DIR>          10
+15-02-2023  01:27    <DIR>          12
+15-02-2023  01:28    <DIR>          1c
+15-02-2023  01:27    <DIR>          23
+15-02-2023  01:27    <DIR>          30
+15-02-2023  01:27    <DIR>          38
+15-02-2023  01:27    <DIR>          46
+15-02-2023  01:27    <DIR>          4f
+15-02-2023  01:27    <DIR>          50
+15-02-2023  01:27    <DIR>          51
+15-02-2023  01:27    <DIR>          59
+15-02-2023  01:27    <DIR>          5c
+15-02-2023  01:27    <DIR>          61
+15-02-2023  01:27    <DIR>          67
+15-02-2023  01:27    <DIR>          68
+15-02-2023  01:27    <DIR>          71
+15-02-2023  01:27    <DIR>          7a
+15-02-2023  01:28    <DIR>          7e
+15-02-2023  01:27    <DIR>          80
+15-02-2023  01:28    <DIR>          92
+15-02-2023  01:27    <DIR>          96
+15-02-2023  01:28    <DIR>          98
+15-02-2023  01:28    <DIR>          9a
+15-02-2023  01:27    <DIR>          9c
+15-02-2023  01:27    <DIR>          a3
+15-02-2023  01:27    <DIR>          a4
+15-02-2023  01:27    <DIR>          ae
+15-02-2023  01:27    <DIR>          c3
+15-02-2023  01:28    <DIR>          c5
+15-02-2023  01:28    <DIR>          cd
+15-02-2023  01:28    <DIR>          d5
+15-02-2023  01:27    <DIR>          d6
+15-02-2023  01:28    <DIR>          e4
+15-02-2023  01:27    <DIR>          e6
+15-02-2023  01:28    <DIR>          eb
+15-02-2023  01:27    <DIR>          fb
+14-02-2023  17:39    <DIR>          info
+14-02-2023  17:39    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\02
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27                91 7b3811f27a91eb3a27addbadda762d7ac486dc
+               1 File(s)             91 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\0f
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               568 a8f4c90edbc960a93f515dd3ade5cc30a4e3ab
+               1 File(s)            568 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\10
+
+15-02-2023  01:28    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:28                54 4908b3577f13b72b69d46371b9cc49a5f1a64c
+               1 File(s)             54 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\12
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               202 be5888c4dd2accdfa841934fe69b86761eff09
+               1 File(s)            202 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\1c
+
+15-02-2023  01:28    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:28                53 5971b077dd3cb0f5c2057c11dd33cfd9f25f2e
+               1 File(s)             53 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\23
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27             1,055 9eeb855b409bd92aea20d87c8bf4b7ff863044
+               1 File(s)          1,055 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\30
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               169 17acda2eed1ec6839bf33a10e616f271a0e0ab
+               1 File(s)            169 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\38
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               318 81c121229b9b03e089497235a349781913439e
+               1 File(s)            318 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\46
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               313 44e966cfe1463cbeb8dd7664df93c3dcc0cb99
+               1 File(s)            313 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\4f
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               282 1842163d2220cc7c9df3acbad206328c6648fb
+               1 File(s)            282 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\50
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               492 935f61fd20d5999786ca4b0f59aff11d5ccdae
+               1 File(s)            492 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\51
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27             5,954 ed160a89d91912a6a244760466980fcb55b178
+               1 File(s)          5,954 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\59
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               129 da706351cf226642b0ab463b8f7b34b358a0e3
+               1 File(s)            129 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\5c
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27            14,308 c78ee0de25d08a99252dc6093da9529bd16520
+               1 File(s)         14,308 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\61
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               663 8cba3a7bd2b5b483258f9a35762be5fa16753b
+               1 File(s)            663 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\67
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               215 b8160cbff924ba6ce142e7989ecfaec7230bbe
+               1 File(s)            215 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\68
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27             2,651 649d0bb1257ed26c57896b8fc9d55dc15fa0a1
+               1 File(s)          2,651 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\71
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27             9,641 8d6fea4835ec2d246af9800eddb7ffb276240c
+               1 File(s)          9,641 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\7a
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               841 28a5cf0055caa81d4faa21f830d5cd27dae287
+               1 File(s)            841 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\7e
+
+15-02-2023  01:28    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:28               136 14556ba4554c0d0b90cc30b63a7bad87e7bd61
+               1 File(s)            136 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\80
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               643 6e0b612089a337cfc7c3ca75d9c1ade9a312ac
+               1 File(s)            643 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\92
+
+15-02-2023  01:28    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:28                50 c226279781ae0fe75e3200ff22fde6fe51611b
+               1 File(s)             50 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\96
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               162 b1a037b1e27bf90d1649653003ac859e9d152f
+               1 File(s)            162 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\98
+
+15-02-2023  01:28    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:28               133 6fd95da53d7022b5d8672347f72359b535cc35
+               1 File(s)            133 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\9a
+
+15-02-2023  01:28    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:28               280 e88a2a54c80725448e75f5f8761bc063c5a7dc
+               1 File(s)            280 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\9c
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27             1,718 fc2dec15bf4bc91d3a01891b50df58be0ae7a0
+               1 File(s)          1,718 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\a3
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               277 c576f78aff0e5f2730311270ce01083adbb708
+               1 File(s)            277 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\a4
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               887 3677d380b21e121094f8c35aef7a79b64b3db8
+               1 File(s)            887 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\ae
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               128 887958d3c9c94ba6f1cd835d08994fdad0d5f1
+               1 File(s)            128 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\c3
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27             4,483 deb0c72154b24a4c15d6e735a575be31dc80e7
+               1 File(s)          4,483 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\c5
+
+15-02-2023  01:28    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:28               230 e2a83d688c69ad089d5f6810abf118f6d25bb2
+               1 File(s)            230 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\cd
+
+15-02-2023  01:28    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:28               121 77af278a4e72699da9e758354d0714fc960bb5
+               1 File(s)            121 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\d5
+
+15-02-2023  01:28    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:28                53 64d0bc3dd917926892c55e3706cc116d5b165e
+               1 File(s)             53 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\d6
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               478 2e88f6c2e77cad270fc58c9d623484526634cb
+               1 File(s)            478 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\e4
+
+15-02-2023  01:28    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:28               126 5d1e3c4c92205a6cb458ed1ca0be6439dd9aa8
+               1 File(s)            126 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\e6
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               705 72ba14a446600c74b18c9ebb7da072a06f61f6
+15-02-2023  01:27                15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+               2 File(s)            720 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\eb
+
+15-02-2023  01:28    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:28               285 108fdc05455fd2ba6b8e8d16998383289ede2d
+15-02-2023  01:28               147 4565bff69141aae86f2921f24b832dc3979019
+               2 File(s)            432 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\fb
+
+15-02-2023  01:27    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+15-02-2023  01:27               524 f0e25a651c28931b2fe8afa2947e124eebc74f
+               1 File(s)            524 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\info
+
+14-02-2023  17:39    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\objects\pack
+
+14-02-2023  17:39    <DIR>          .
+15-02-2023  01:28    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\refs
+
+14-02-2023  17:39    <DIR>          .
+15-02-2023  01:35    <DIR>          heads
+14-02-2023  17:39    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\refs\heads
+
+15-02-2023  01:35    <DIR>          .
+14-02-2023  17:39    <DIR>          ..
+15-02-2023  01:35                41 trunk
+               1 File(s)             41 bytes
+
+ Directory of C:\suv\lw3.io_dao1\dao-tutorial\.git\refs\tags
+
+14-02-2023  17:39    <DIR>          .
+14-02-2023  17:39    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+              63 File(s)         77,540 bytes
+             143 Dir(s)  146,261,635,072 bytes free
