@@ -1177,6 +1177,23 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
+C:\suv\lw3.io_dao\dao-tutorial>git add .
+
+C:\suv\lw3.io_dao\dao-tutorial>git commit -m "terminal-commands"
+[trunk 0426c55] terminal-commands
+ 1 file changed, 177 insertions(+)
+
+C:\suv\lw3.io_dao\dao-tutorial>git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 1.34 KiB | 1.34 MiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/suvrajeet01/lw3.io_dao.git
+   ec927bb..0426c55  trunk -> trunk
+
 C:\suv\lw3.io_dao\dao-tutorial>
 
 
