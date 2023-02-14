@@ -1034,6 +1034,183 @@ C:\suv\lw3.io_dao\dao-tutorial>
 
 
 
+Microsoft Windows [Version 10.0.22621.1105]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\suv>git clone https://github.com/suvrajeet01/lw3.io_dao.git
+Cloning into 'lw3.io_dao'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+C:\suv>>git status
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\suv>cd lw3.io_dao
+
+C:\suv\lw3.io_dao>git status
+On branch trunk
+Your branch is up to date with 'origin/trunk'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        dao-tutorial/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\suv\lw3.io_dao>git add .
+warning: LF will be replaced by CRLF in dao-tutorial/package-lock.json.
+The file will have its original line endings in your working directory
+
+C:\suv\lw3.io_dao>git status
+On branch trunk
+Your branch is up to date with 'origin/trunk'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   dao-tutorial/.git.txt
+        new file:   dao-tutorial/.gitignore
+        new file:   dao-tutorial/README.md
+        new file:   dao-tutorial/backend/.gitignore
+        new file:   dao-tutorial/backend/constants.js
+        new file:   dao-tutorial/backend/contracts/CryptoDevsDAO.sol
+        new file:   dao-tutorial/backend/contracts/FakeNFTMarketplace.sol
+        new file:   dao-tutorial/backend/contracts/Lock.sol
+        new file:   dao-tutorial/backend/hardhat.config.js
+        new file:   dao-tutorial/backend/package.json
+        new file:   dao-tutorial/backend/scripts/deploy.js
+        new file:   dao-tutorial/contract addresses.txt
+        new file:   dao-tutorial/frontend/.gitignore
+        new file:   dao-tutorial/frontend/components/.gitkeep
+        new file:   dao-tutorial/frontend/constants.js
+        new file:   dao-tutorial/frontend/next.config.js
+        new file:   dao-tutorial/frontend/package.json
+        new file:   dao-tutorial/frontend/pages/_appRain.jsx
+        new file:   dao-tutorial/frontend/pages/api/hello.js
+        new file:   dao-tutorial/frontend/pages/help.jsx
+        new file:   dao-tutorial/frontend/pages/index.jsx
+        new file:   dao-tutorial/frontend/public/cryptodevs/0.svg
+        new file:   dao-tutorial/frontend/public/favicon.ico
+        new file:   dao-tutorial/frontend/public/vercel.svg
+        new file:   dao-tutorial/frontend/styles/Help.module.css
+        new file:   dao-tutorial/frontend/styles/Home.module.css
+        new file:   dao-tutorial/frontend/styles/globals.css
+        new file:   dao-tutorial/package-lock.json
+        new file:   dao-tutorial/terminal-commands.txt
+
+
+C:\suv\lw3.io_dao>git commit -m "dao-tutorial"
+[trunk ec927bb] dao-tutorial
+ 29 files changed, 3685 insertions(+)
+ create mode 100644 dao-tutorial/.git.txt
+ create mode 100644 dao-tutorial/.gitignore
+ create mode 100644 dao-tutorial/README.md
+ create mode 100644 dao-tutorial/backend/.gitignore
+ create mode 100644 dao-tutorial/backend/constants.js
+ create mode 100644 dao-tutorial/backend/contracts/CryptoDevsDAO.sol
+ create mode 100644 dao-tutorial/backend/contracts/FakeNFTMarketplace.sol
+ create mode 100644 dao-tutorial/backend/contracts/Lock.sol
+ create mode 100644 dao-tutorial/backend/hardhat.config.js
+ create mode 100644 dao-tutorial/backend/package.json
+ create mode 100644 dao-tutorial/backend/scripts/deploy.js
+ create mode 100644 dao-tutorial/contract addresses.txt
+ create mode 100644 dao-tutorial/frontend/.gitignore
+ create mode 100644 dao-tutorial/frontend/components/.gitkeep
+ create mode 100644 dao-tutorial/frontend/constants.js
+ create mode 100644 dao-tutorial/frontend/next.config.js
+ create mode 100644 dao-tutorial/frontend/package.json
+ create mode 100644 dao-tutorial/frontend/pages/_appRain.jsx
+ create mode 100644 dao-tutorial/frontend/pages/api/hello.js
+ create mode 100644 dao-tutorial/frontend/pages/help.jsx
+ create mode 100644 dao-tutorial/frontend/pages/index.jsx
+ create mode 100644 dao-tutorial/frontend/public/cryptodevs/0.svg
+ create mode 100644 dao-tutorial/frontend/public/favicon.ico
+ create mode 100644 dao-tutorial/frontend/public/vercel.svg
+ create mode 100644 dao-tutorial/frontend/styles/Help.module.css
+ create mode 100644 dao-tutorial/frontend/styles/Home.module.css
+ create mode 100644 dao-tutorial/frontend/styles/globals.css
+ create mode 100644 dao-tutorial/package-lock.json
+ create mode 100644 dao-tutorial/terminal-commands.txt
+
+C:\suv\lw3.io_dao>git status
+On branch trunk
+Your branch is ahead of 'origin/trunk' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+C:\suv\lw3.io_dao>git push
+
+Enumerating objects: 43, done.
+Counting objects: 100% (43/43), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (37/37), done.
+Writing objects: 100% (42/42), 44.26 KiB | 4.43 MiB/s, done.
+Total 42 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), done.
+To https://github.com/suvrajeet01/lw3.io_dao.git
+   402029d..ec927bb  trunk -> trunk
+
+C:\suv\lw3.io_dao>git status
+On branch trunk
+Your branch is up to date with 'origin/trunk'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   dao-tutorial/terminal-commands.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\suv\lw3.io_dao>cd dao-tutorial/
+
+C:\suv\lw3.io_dao\dao-tutorial>git status
+On branch trunk
+Your branch is up to date with 'origin/trunk'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   terminal-commands.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\suv\lw3.io_dao\dao-tutorial>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
